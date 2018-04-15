@@ -1,0 +1,3 @@
+edad falta corregir con el mes del año
+cambie el group_by de vistas por postulante
+quien busca mas trabajo? por sexo y nivel de educacion
